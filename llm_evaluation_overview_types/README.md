@@ -1,10 +1,16 @@
+### Benefits Of Evaluation
 ![Screenshot (120)](https://github.com/user-attachments/assets/86cfc325-4754-41e6-be50-1504972d9a63)
 
 
+### Evaluation Good Standards
+
 ![Screenshot (121)](https://github.com/user-attachments/assets/fb615652-aa93-4f6b-8855-f93920da7a6e)
+
+## Challenges In LLM Evaluation
 
 ![Screenshot (122)](https://github.com/user-attachments/assets/bba5f4e7-c897-4680-b441-36f0c20c1dda)
 
+### Traditional ML Models Testing
 
 ![Screenshot (123)](https://github.com/user-attachments/assets/1633fee7-4f99-4078-97f0-0759fad6f45a)
 
@@ -16,7 +22,11 @@
 
 
 ![Screenshot (127)](https://github.com/user-attachments/assets/9e7a0a45-d3c7-408e-b80d-450e82d6aa8a)
+
 ![Screenshot (128)](https://github.com/user-attachments/assets/881ecca7-7054-4360-9278-2aac40414ebb)
+
+### No Access To Training Data
+
 ![Screenshot (129)](https://github.com/user-attachments/assets/7252cb0f-ee1f-4c4e-b3e8-0c69dcd60c56)
 ![Screenshot (130)](https://github.com/user-attachments/assets/1de59527-5a70-4d76-9e4f-e1dd4afa6700)
 
