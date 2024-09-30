@@ -26,6 +26,7 @@
 
 ![Screenshot (128)](https://github.com/user-attachments/assets/881ecca7-7054-4360-9278-2aac40414ebb)
 
+### Reason Why Structured Traditional Models Can't
 
 ![Screenshot (129)](https://github.com/user-attachments/assets/7252cb0f-ee1f-4c4e-b3e8-0c69dcd60c56)
 ![Screenshot (130)](https://github.com/user-attachments/assets/1de59527-5a70-4d76-9e4f-e1dd4afa6700)
@@ -36,6 +37,8 @@
 
 
 ![Screenshot (133)](https://github.com/user-attachments/assets/10da3354-6ece-447b-a838-dc835c26f950)
+
+### Diversification Of Output Response In Unstrcutured Models or LLMs Causing Difficulty
 
 ![Screenshot (134)](https://github.com/user-attachments/assets/7fce17cc-b350-4c48-872d-ce72f242df55)
 
